@@ -1,0 +1,5 @@
+[project]
+name = "eval-model-compat"
+version = "0.1.0"
+description = "Model provider compatibility evaluation for Inspect AI"
+dependencies = ["inspect_ai"]
